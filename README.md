@@ -1,3 +1,3 @@
-# HackerRank Problem Solving
+# HackerRank Problems Solving
 
 Um repositório destinado a registrar minhas soluções do [HackerRank](https://www.hackerrank.com/)
